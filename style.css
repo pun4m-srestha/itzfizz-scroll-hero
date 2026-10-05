@@ -229,6 +229,12 @@ body {
     display: block;
   }
 
+  .orb {
+    top: 30%;
+    bottom: auto;
+    margin: calc(var(--orb-size) / -2) auto 0;
+  }
+
   .hero__title {
     letter-spacing: 0.2em;
     padding-left: 0.2em;
